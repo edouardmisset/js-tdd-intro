@@ -1,0 +1,23 @@
+{
+  "name": "js-tdd-intro",
+  "version": "1.0.0",
+  "description": "TDD: a first !",
+  "main": "capitalizeFirstLetters.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edouardmisset/js-tdd-intro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edouardmisset/js-tdd-intro/issues"
+  },
+  "homepage": "https://github.com/edouardmisset/js-tdd-intro#readme"
+}
