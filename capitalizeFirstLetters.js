@@ -5,8 +5,8 @@ function capitalizeFirstLetters(string) {
   string.split(' ').forEach((word) => {
     convertedArray.push(word.charAt(0).toUpperCase() + word.slice(1));
   });
-  
+
   return convertedArray.join(' ');
 }
 
-export default capitalizeFirstLetters;
+module.exports = capitalizeFirstLetters;
